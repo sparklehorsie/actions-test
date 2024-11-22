@@ -46,4 +46,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run Script
-        run: ./code/scripty.sh
+        run:  bash code/scripty.sh
